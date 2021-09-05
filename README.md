@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **vipulpopli7534/vipulpopli7534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
