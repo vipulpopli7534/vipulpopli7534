@@ -1,6 +1,7 @@
 <h1>Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Vipul Popli.</h1>
 <p><em>Software Engineer at <a href="https://www.cleartrip.com/flights">Cleartrip</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/popli_vipul?label=Follow)](https://twitter.com/popli_vipul)
 [![Linkedin: anmol](https://img.shields.io/badge/-vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-popli-74341717b/)](https://www.linkedin.com/in/vipul-popli-74341717b/)
 ![](https://visitor-badge.glitch.me/badge?page_id=vipulpopli7534.vipulpopli7534)
