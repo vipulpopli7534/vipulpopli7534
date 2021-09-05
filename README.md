@@ -7,7 +7,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=vipulpopli7534.vipulpopli7534)
 
 <h2 align="left" >👨‍💻 About me.</h2>
-<em align="left">Hi, I'm Vipul Popli.</em>
+<em align="left">Hi, I'm Vipul Popli.
+</br>
+A Gym addict 🏋️, who write code sometimes 📄.
+</br>
+Hit me up for quick chit-chat over a cup of coffee or tea 🫖
+</em>
 
 - 📫 How to reach me **popli.vipul080@gmail.com**
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="300" height="200" />
@@ -16,8 +21,8 @@
 </br>
 </br>
 </br>
-
-
+</br>
+</br>
 <h2>📈 My Github stats</h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vipulpopli7534&show_icons=true&theme=gotham" alt="vipulpopli7534" />
   
