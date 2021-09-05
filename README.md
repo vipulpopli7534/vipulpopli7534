@@ -6,25 +6,23 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-popli-74341717b/)](https://www.linkedin.com/in/vipul-popli-74341717b/)
 ![](https://visitor-badge.glitch.me/badge?page_id=vipulpopli7534.vipulpopli7534)
 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" height="300" />
+
 <h2 align="left" >👨‍💻 About me.</h2>
-<em align="left">Hi, I'm Vipul Popli.
-</br>
-A Gym addict 🏋️, who write code sometimes 📄.
-</br>
-Hit me up for quick chit-chat over a cup of coffee or tea 🫖
-</em>
+Hi, I'm Vipul Popli.
+
+- A Gym addict 🏋️, who write code sometimes 📄.
+
+- Hit me up for quick chit-chat over a cup of coffee or tea 🫖
+
+- 📫 How to reach me 
+  
+  - <code><a href="popli.vipul080@gmail.com"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></a></code> 
+  <code><a href="https://www.instagram.com/vipul_popli/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"></a></code> 
+  <code><a href="https://www.linkedin.com/in/vipul-popli-74341717b/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></code> 
+  <code><a href="https://twitter.com/popli_vipul"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png"></a></code> 
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="300" height="200" />
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-- 📫 How to reach me **popli.vipul080@gmail.com**
 <h2>📈 My Github stats</h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vipulpopli7534&show_icons=true&theme=gotham" alt="vipulpopli7534" />
   
