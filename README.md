@@ -11,16 +11,16 @@
 <h2 align="left" >👨‍💻 About me.</h2>
 Hi, I'm Vipul Popli.
 
-- A Gym addict 🏋️, who write code sometimes 📄.
+- Love to write code sometimes 📄.
 
 - Hit me up for quick chit-chat over a cup of coffee or tea 🫖
 
 - 📫 How to reach me 
   
-  - <code><a href="popli.vipul080@gmail.com"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></a></code> 
-  <code><a href="https://www.instagram.com/vipul_popli/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"></a></code> 
+  - <code><a href="https://www.instagram.com/vipul_popli/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"></a></code> 
   <code><a href="https://www.linkedin.com/in/vipul-popli-74341717b/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></code> 
   <code><a href="https://twitter.com/popli_vipul"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png"></a></code> 
+
 
 
 <h2>📈 My Github stats</h2>
