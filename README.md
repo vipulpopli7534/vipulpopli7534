@@ -23,6 +23,7 @@ Hit me up for quick chit-chat over a cup of coffee or tea 🫖
 </br>
 </br>
 </br>
+
 - 📫 How to reach me **popli.vipul080@gmail.com**
 <h2>📈 My Github stats</h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vipulpopli7534&show_icons=true&theme=gotham" alt="vipulpopli7534" />
