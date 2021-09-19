@@ -11,7 +11,7 @@
 <h2 align="left" >👨‍💻 About me.</h2>
 Hi, I'm Vipul Popli.
 
-- Love to write code sometimes 📄.
+- Love to write code 📄.
 
 - Hit me up for quick chit-chat over a cup of coffee or tea 🫖
 
